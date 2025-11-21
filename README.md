@@ -1,6 +1,7 @@
 ## Story 
 "You are a cursed knight, brought back to life to save your world from the forces of evil. Will you succeed, or will your world be lost?"
 
+
 ## Game Features
  ### Genre: 2D Adventure Platformer
 
@@ -21,6 +22,7 @@
  4. **Combat abilities**
 
  5. **Interact with characters and objects**
+
 
 ## How to Run the Game
 
