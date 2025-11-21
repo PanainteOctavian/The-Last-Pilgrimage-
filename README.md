@@ -1,3 +1,27 @@
+## Story 
+"You are a cursed knight, brought back to life to save your world from the forces of evil. Will you succeed, or will your world be lost?"
+
+## Game Features
+ ### Genre: 2D Adventure Platformer
+
+ ### Perspective: Third-person (player controls the hero's actions)
+
+ ### Graphics: Linear 2D projection with medieval art style
+
+ ### View: Side view (lateral perspective)
+
+ ### Character Controls:
+
+ 1. **Move forward/backward**
+
+ 2. **Crouch walk forward/backward**
+
+ 3. **Jump**
+
+ 4. **Combat abilities**
+
+ 5. **Interact with characters and objects**
+
 ## How to Run the Game
 
 ### Prerequisites
