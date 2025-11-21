@@ -26,6 +26,6 @@
 ---
 
 ### Explanation
-This is a short Java game project that uses Maven as its build system. The `pom.xml` file contains all project dependencies and configuration. Marking the folders correctly ensures that resources (like images and sounds) and source code are properly recognized by IntelliJ.
+This is a short Java game project that uses Maven as its build system. The `pom.xml` file contains all project dependencies and configuration.
 
 ---
