@@ -1,5 +1,3 @@
-<img width="1026" height="516" alt="PAUSE_SCREEN" src="https://github.com/user-attachments/assets/619fb244-1341-44fd-b15a-edbcb01798ed" /># The Last Pilgrimage
-
 ## Story
 
 **"You are a cursed knight, brought back to life to save your world from the forces of evil. Will you succeed, or will your world be lost?"**
